@@ -1,6 +1,8 @@
 ## This is heading 1
 
-# This is heading 2
+# This is heading yes
+
+This is really interesting
 
 [Canvas](https://canvas.ucsd.edu)
 
