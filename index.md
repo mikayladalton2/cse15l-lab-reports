@@ -1,16 +1,18 @@
-##This is heading 1
+## This is heading 1
 
-#This is heading 2
+# This is heading 2
 
-[link] (https://www.google.com/)
+[Canvas](https://canvas.ucsd.edu)
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fucsdnews.ucsd.edu%2Fpressrelease%2Fuc-san-diego-ranked-no-1-public-university-by-washington-monthly&psig=AOvVaw3AoFGs0DEENmuFOTsd2F5W&ust=1649446128802000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNiZy-bXgvcCFQAAAAAdAAAAABAD)
+
+![Image](https://media.istockphoto.com/photos/beautiful-sunset-over-the-tropical-sea-picture-id1172427455?k=20&m=1172427455&s=612x612&w=0&h=tL1ig4N68zXv9wKgZ3_tOeVP1qV3zSfjjS_jbyeyGCA=)	
+
 
 > This is a block quote
 
--apples
--bananas
--pears
+- apples
+- bananas
+- pears
 
 1. apples
 2. bananas
@@ -18,11 +20,11 @@
 
 ----------
 
-'this is important' yeah
+`this is important` yeah
 
-'''
+```
 #this is a block quote yeah
-'''
+```
 
 
 *Hi hello what is up?*
