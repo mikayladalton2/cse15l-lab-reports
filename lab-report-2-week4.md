@@ -52,4 +52,4 @@ Honestly, the only issue I could find with the original code was the issue I des
 
 
 
-Going off of what I tried for code change 2, I realized I needed to account for any of the variables invoking the `indexOf()` because any has the possiblity to cause `IndexOutOfBoundsException`(if element not found 'indexOf()' will return -1). I also realized I need to check this before I add it to the `toReturn` variable. This code change resulted in all the test files to produce the intended result. 
+Going off of what I tried for code change 2, I realized I needed to account for any of the variables invoking the `indexOf()` because any has the possiblity to cause `IndexOutOfBoundsException`(if element not found `indexOf()` will return -1). I also realized I need to check this before I add it to the `toReturn` variable. This code change resulted in all the test files to produce the intended result. 
