@@ -5,9 +5,8 @@ and looked for tests that corresponded to different bugs in my `MarkdownParse` r
 These are the links to the two test files I chose:
 
 [Test 1](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/490.html.test)
---
+
 [Test 2](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/494.html.test)
---
 
 
 ## **Test 1 Results:**
